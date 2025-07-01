@@ -14,7 +14,7 @@ Build a basic GUI-based To-Do list using Java Swing.
 ---
 
 ## Features
--Add a new task
+- Add a new task
 - Delete a selected task from the list
 
 ---
