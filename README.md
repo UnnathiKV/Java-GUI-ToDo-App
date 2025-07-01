@@ -1,11 +1,14 @@
-# Task 6:Java GUI – ToDo App
+# Task 6: Java GUI – ToDo App
 ---
 
 ## Objective
+
 Build a basic GUI-based To-Do list using Java Swing.
+
 ---
 
 ## Tools Used
+
  IntelliJ 
  
 ---
